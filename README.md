@@ -1,0 +1,1 @@
+Creating a landing page base on the images and info provided by the odin project.
